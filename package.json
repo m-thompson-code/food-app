@@ -10,8 +10,7 @@
     },
     "lint-staged": {
         "**/*": [
-            "prettier --write --ignore-unknown",
-            "git add"
+            "prettier --write --ignore-unknown"
         ]
     },
     "private": true,
