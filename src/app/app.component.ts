@@ -9,5 +9,6 @@ export class AppComponent {
     // formGroup:
     test() {
         console.log('moo');
+        console.log('moocow');
     }
 }
